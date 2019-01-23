@@ -2,7 +2,7 @@
 
 
 /***********************************************
-* Name: Takeshwari Kamal
+* Name: Brandon Cunningham
 * Email: kamalt4@students.rowan.edu
 ***********************************************
 * Purpose:
